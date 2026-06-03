@@ -1,0 +1,157 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero-banner}
+::: {.hero-overlay}
+
+<div class="hero-content">
+
+<img src="logo_la_constancia.svg" class="hero-logo">
+
+# Visitas Educativas
+
+### Arboretum de Estancia La Constancia
+
+<div class="hero-subtitle">
+Educación Ambiental · Biodiversidad · Aprendizaje en Terreno
+</div>
+
+</div>
+
+:::
+:::
+
+::: {.lead-text}
+
+El Arboretum de Estancia La Constancia abre sus puertas a instituciones educativas, docentes y grupos escolares interesados en aprender directamente en contacto con la naturaleza.  
+
+A través de recorridos guiados, actividades prácticas y observación ecológica, promovemos una comprensión viva de la biodiversidad y los ecosistemas locales.
+
+:::
+
+---
+
+## Experiencias Educativas
+
+::: {.panel-tabset}
+
+### 🌿 Recorrido Botánico Guiado
+
+- Los alumnos reconocen hierbas, arbustos y árboles, en un entorno único y seguro con programas diseñados por nivel y tema.
+- ¿Aves o pájaros? ¿Animales vertebrados o invertebrados? Preguntas que serán
+respondidas a través de la observación y el juego, despertando el interés que continuará en el aula.
+- Interpretación de ecosistemas locales  
+- Observación de interacciones ecológicas  
+
+### 📊 Ciencia y Naturaleza
+
+- Registro de biodiversidad en campo  
+- Introducción a la ciencia ciudadana  
+- Uso básico de herramientas de observación  
+- Actividades de clasificación de especies 
+- Conexión con la naturaleza: Fomentamos el respeto y el cuidado por el Ambiente a través de la reflexión y el juego.
+
+### 🥾 Aprendizaje en Senderos
+
+- Caminatas interpretativas por el arboretum  
+- Educación ambiental en contacto directo con el paisaje  
+- Dinámicas de observación guiada  
+- Actividades adaptadas por nivel educativo
+- Recorridos guiados: Acompañados por profesionales especializados que adaptan las explicaciones a la edad y nivel de los estudiantes.
+- Exploración de ecosistemas locales: Reconocimiento de especies arbóreas y análisis de flora y fauna nativas y exóticas.
+- Actividades prácticas y divertidas: Identificación de especies de plantas y árboles, la reproducción de las especies, la observación de aves (residentes y migratorias), la recolección de muestras para laboratorio, trabajo en equipo, ¡y mucho más!
+
+### 🌿 Beneficios
+- Los estudiantes adquirirán conocimientos de biología, ecología y geografía de manera dinámica y entretenida.
+- Fomentamos el trabajo entre compañeros, despertamos la curiosidad y el pensamiento crítico en un entorno natural.
+- Exploración y aprendizaje al aire libre con programas co-creados con la institución.
+- Caminatas guiadas, observación de flora, actividades interactivas, todo creado para despertar la curiosidad y el amor por el ambiente.
+:::
+
+---
+
+## Visitas Escolares
+
+<!-- ::: {.columns} -->
+
+<!-- ::: {.column width="100%"} -->
+
+<!-- ::: {.program-card} -->
+
+**Duración:** 3/4 horas  
+**Nivel:** Primaria / Secundaria  
+
+Diseñadas para complementar contenidos curriculares en ciencias naturales, biología y educación ambiental.
+
+<!-- <a href="https://TU-LINK-PRIMARIA.com" target="_blank" class="program-button"> -->
+<!--   Programa Primaria -->
+<!-- </a> -->
+
+<!-- <a href="https://TU-LINK-SECUNDARIA.com" target="_blank" class="program-button"> -->
+<!--   Programa Secundaria -->
+<!-- </a> -->
+Descarga los programas tentativos:
+
+<div class="button-group">
+
+  <a href="https://drive.google.com/file/d/19wJLzPF0y2cGcbcleYGGqqQfquEImo-8/view?usp=sharing">
+    Programa Primaria
+  </a>
+
+  <a href="https://drive.google.com/file/d/15N2feTXPWUFBhSsXKI50gUgWbZRjfpLM/view?usp=sharing" target="_blank" class="program-button">
+    Programa Secundaria
+  </a>
+
+</div>
+
+
+---
+
+## El Arboretum
+
+<!-- ::: {.map-section} -->
+
+<!-- ![](mapa-jardines.jpg){.garden-map} -->
+
+El recorrido educativo atraviesa distintos sectores del arboretum, permitiendo observar especies nativas, dinámicas ecológicas y ambientes representativos del paisaje local.
+
+<!-- ::: -->
+---
+
+## Información General
+
+<!-- ::: {.callout-note appearance="minimal"} -->
+
+Las visitas deben coordinarse previamente para garantizar la organización logística y la calidad de la experiencia educativa.
+
+<!-- ::: -->
+
+### Cómo solicitar una visita
+
+1. Enviar solicitud de reserva  
+2. Coordinación de objetivos pedagógicos  
+3. Confirmación de fecha y grupo  
+4. Desarrollo de la visita guiada en el arboretum  
+
+<br>
+
+::: {.cta-container}
+<a href="https://LINK-A-TU-FORMULARIO.com" target="_blank" class="cta-button">
+Solicitar Visita Educativa
+</a>
+:::
+
+---
+
+## Contacto y Ubicación
+
+**Correo:** laconstanciaargentina@gmail.com  
+**Ubicación:** Arboretum de Estancia La Constancia, Camino 515, Mar del Plata, Argentina
+
+<a href="https://maps.app.goo.gl/jQaTGHeaecL4icSg9"
+target="_blank"
+class="program-button">
+📍 Abrir en Google Maps
+</a>

@@ -1,0 +1,147 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero-banner}
+::: {.hero-overlay}
+
+<div class="hero-content">
+
+<img src="logo_la_constancia.svg" class="hero-logo">
+
+# Red de Empresas
+
+### Arboretum de Estancia La Constancia
+
+<div class="hero-subtitle">
+Un espacio donde las empresas trascienden, generando impacto real en naturaleza, comunidad y bienestar.
+</div>
+
+</div>
+
+:::
+:::
+
+::: {.lead-text}
+
+La Red de Empresas del Jardín Botánico de Mar del Plata invita a organizaciones visionarias a formar parte de un proyecto único que integra naturaleza, bienestar, educación y comunidad.
+
+Sumarse es contribuir a la construcción de un legado que trasciende generaciones, impulsando la conservación ambiental y creando un espacio donde empresas, personas y naturaleza crecen juntas.
+
+:::
+
+---
+
+## La Red de Empresas
+
+::: {.panel-tabset}
+
+### 🌿 ¿Por qué sumarte?
+
+- Formar parte del primer Jardín Botánico de Mar del Plata, un espacio donde naturaleza, comunidad y empresas generan impacto real.
+- Asociar tu organización a valores de sostenibilidad, innovación y futuro.
+- Integrarte a una red empresarial con propósito.
+
+### 📊 Beneficios
+
+- Presencia en redes sociales y materiales institucionales. 
+-	Networking empresarial. 
+-	Encuentros sobre sostenibilidad y triple impacto. 
+-	Actividades de bienestar en la naturaleza. 
+-	Jornadas de voluntariado corporativo. 
+
+### 🥾 Cómo participar
+
+- Sponsoreo de proyectos del Jardín Botánico.
+- Aportes en especie o colaboración institucional.
+- Membresía anual desde USD 500.
+:::
+
+---
+
+## Proyectos
+
+- 🌿 Señalética educativa
+- 🌿 Senderos interpretativos
+- 🌿 Bancos y espacios de descanso
+- 🌿 Identificación de especies
+- 🌿 Baños ecológicos e inclusivos
+
+
+## **Coordinación de la Red de Empresas**
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+![](Magda.jpg){.admin-photo}
+
+### Magdalena Zurita Biocca
+
+🔗 [LinkedIn](https://www.linkedin.com/in/magdalenazurita/?locale=en)
+
+Responsable de la coordinación institucional, programas educativos y conservación.
+
+:::
+
+::: {.column width="50%"}
+
+![](Juan.jpg){.admin-photo}
+
+### Juan Ignacio Zurita Biocca
+
+🔗 [LinkedIn](https://www.linkedin.com/in/juan-ignacio-z-4b345425/)
+
+
+Responsable del desarrollo estratégico, vinculación con empresas y comunicación institucional.
+
+:::
+
+:::
+
+## Cómo sumarte a la Red
+
+Completa el formulario expresando tu interés y nuestro equipo se pondrá en contacto contigo.
+
+
+<br>
+
+::: {.cta-container}
+<a href="https://LINK-A-TU-FORMULARIO.com" target="_blank" class="cta-button">
+Expresar interés
+</a>
+:::
+
+
+
+## Empresas Fundadoras de la Red
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+![](Somos.jpeg){width="180px"}
+
+
+:::
+
+:::
+
+
+
+## Contacto y Ubicación
+
+**Correo:** laconstanciaargentina@gmail.com  
+
+📍 Ubicación  
+Arboretum de Estancia La Constancia  
+Camino 515, Mar del Plata, Argentina
+
+<a href="https://maps.app.goo.gl/jQaTGHeaecL4icSg9"
+target="_blank"
+class="program-button">
+📍 Abrir en Google Maps
+</a>
+
+

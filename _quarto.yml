@@ -1,0 +1,70 @@
+# project:
+#   type: website
+# 
+# website:
+#   title: "Voluntariado La Constancia"
+#   search: false
+#   navbar:
+#     background: primary # Utilizará el color principal del tema Cosmo (Azul oscuro por defecto)
+#     collapse: true
+# 
+# format:
+#   html:
+#     theme: cosmo
+#     css: styles.css
+#     toc: true
+#     toc-title: "Contenido"
+# 
+# project:
+#   type: website
+# 
+# website:
+#   title: ""
+# 
+#   navbar:
+#     background: transparent
+#     foreground: light
+#     collapse: true
+#     search: false
+#     pinned: false
+# 
+# format:
+#   html:
+#     theme: litera
+#     css: styles.css
+#     toc: false
+#     smooth-scroll: true
+#     page-layout: full
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+
+  navbar:
+    background: transparent
+    foreground: light
+    collapse: true
+    search: false
+    pinned: false
+
+    logo: logo_la_constancia.svg
+
+    left:
+      - text: "Inicio"
+        href: index.qmd
+
+      - text: "Visitas Educativas"
+        href: about.qmd
+      
+      - text: "Red de Empresas"
+        href: red.qmd  
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    page-layout: full

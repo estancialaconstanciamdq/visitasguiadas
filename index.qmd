@@ -1,0 +1,122 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero-banner}
+::: {.hero-overlay}
+
+<div class="hero-content">
+
+<img src="logo_la_constancia.svg" class="hero-logo">
+
+# Programa de Voluntariado
+
+### Arboretum de Estancia La Constancia
+
+<div class="hero-subtitle">
+Conservación · Restauración Ecológica · Ciencia Ciudadana
+</div>
+
+</div>
+
+:::
+:::
+
+::: {.lead-text}
+El Arboretum de Estancia La Constancia es un espacio vivo dedicado a la conservación botánica, la restauración ecológica y la educación ambiental. Invitamos a estudiantes, investigadores y amantes de la naturaleza a participar activamente en el cuidado de la biodiversidad local.
+:::
+
+---
+
+## Áreas de Trabajo
+
+::: {.panel-tabset}
+
+### 🌿 Conservación Botánica
+
+- Recolección de semillas nativas para el Banco de Semillas  
+- Control de especies exóticas invasoras  
+- Riego estratégico y manejo de árboles jóvenes  
+- Restauración ecológica y propagación vegetal  
+
+### 📊 Ciencia Ciudadana
+
+- Monitoreo fenológico de especies  
+- Registro fotográfico y georreferenciación  
+- Etiquetado y digitalización de colecciones  
+- Apoyo en inventarios botánicos  
+
+### 🥾 Senderos y Educación
+
+- Mantenimiento de sendas interpretativas  
+- Construcción de señalética educativa  
+- Apoyo a visitas escolares  
+- Diseño de experiencias de educación ambiental  
+
+:::
+
+---
+
+## Formas de Participar
+
+::: {.columns}
+
+::: {.column width="48%"}
+
+### Jornadas de Campo
+
+**Frecuencia:** Un sábado al mes  
+**Horario:** 09:00–16:00 hs
+
+Dirigido a estudiantes, profesionales y personas interesadas en adquirir experiencia práctica en conservación y restauración ecológica.
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+
+### Investigación y Residencias
+
+Participación flexible según proyectos de investigación, tesis o prácticas profesionales.
+
+Áreas sugeridas:
+- Biología
+- Agronomía
+- Ciencias Ambientales
+- Guardaparques
+
+:::
+
+:::
+
+---
+
+## Convocatoria 2026
+
+::: {.callout-note appearance="minimal"}
+Las vacantes son limitadas para garantizar una experiencia de trabajo segura y personalizada dentro del Arboretum.
+:::
+
+### Proceso de Postulación
+
+1. Completar formulario de inscripción  
+2. Entrevista virtual breve  
+3. Jornada de inducción en campo  
+
+<br>
+
+::: {.cta-container}
+<a href="https://LINK-A-TU-FORMULARIO.com" target="_blank" class="cta-button">
+Postular al Programa
+</a>
+:::
+
+---
+
+## Contacto
+
+**Correo:** voluntariado@estancialaconstancia.com  
+**Ubicación:** Arboretum de Estancia La Constancia
