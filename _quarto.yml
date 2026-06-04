@@ -68,3 +68,4 @@ format:
     toc: false
     smooth-scroll: true
     page-layout: full
+    embed-resources: true
