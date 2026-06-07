@@ -52,11 +52,11 @@ website:
     logo: logo_la_constancia.svg
 
     left:
-      - text: "Inicio"
-        href: index.qmd
-
-      - text: "Visitas Educativas"
-        href: about.qmd
+      # - text: "Inicio"
+      #   href: index.qmd
+      # 
+      # - text: "Visitas Educativas"
+      #   href: about.qmd
       
       - text: "Red de Empresas"
         href: red.qmd  
