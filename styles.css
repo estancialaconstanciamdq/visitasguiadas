@@ -103,7 +103,8 @@ main,
 
   width: 100vw;
 
-  height: 100vh;
+  height: auto;
+  min-height: 85vh;
 
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
@@ -662,9 +663,12 @@ li {
     font-size:1rem;
   }
 
+
   .hero-logo{
-    width:150px;
-  }
+    width:250px;
+    max-width:60%;
+    height:auto;
+}
 
   .lead-text{
     font-size:1rem;
@@ -688,4 +692,18 @@ li {
   width: 180px;
   max-width: 45%;
   opacity: 0.95;
+}
+
+@media (max-width:768px){
+
+.hero-logo{
+    width:140px;
+    max-width:50%;
+}
+
+}
+
+.navbar-brand img{
+    max-height:40px;
+    width:auto;
 }
