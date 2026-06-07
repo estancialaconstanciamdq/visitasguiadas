@@ -707,3 +707,36 @@ li {
     max-height:40px;
     width:auto;
 }
+
+@media (max-width:768px){
+
+  .navbar-brand img{
+    display:none;
+  }
+
+}
+
+
+
+@media (max-width:768px){
+
+  .hero-banner{
+    height:65vh;
+    min-height:500px;
+  }
+
+  .hero-overlay{
+    align-items:flex-start;
+    padding-top:6rem;
+  }
+
+  .hero-logo{
+    width:140px;
+    margin-bottom:1.5rem;
+  }
+
+  .navbar-brand img{
+    display:none;
+  }
+
+}
