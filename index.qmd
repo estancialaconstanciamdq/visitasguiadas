@@ -85,6 +85,26 @@ respondidas a través de la observación y el juego, despertando el interés que
 
 Diseñadas para complementar contenidos curriculares en ciencias naturales, biología y educación ambiental.
 
+
+## Contenidos de las Visitas
+
+Cada recorrido se adapta al nivel educativo y a los objetivos pedagógicos de la institución, integrando actividades de observación, exploración y aprendizaje en contacto directo con la naturaleza.
+
+### 🌳 Algunos de los temas que abordamos
+
+* **Historia y transformación del paisaje:** cómo un antiguo potrero se convirtió en un arboretum de 33 hectáreas con más de 30.000 plantas.
+* **Biodiversidad y conservación:** reconocimiento de especies nativas y exóticas, y el rol de los jardines botánicos y arboretos en la protección de la flora.
+* **Ecología y funcionamiento de los ecosistemas:** relaciones entre plantas, animales y ambiente.
+* **Botánica en acción:** observación de hojas, flores, semillas, cortezas y otras estructuras vegetales para comprender cómo los científicos identifican y estudian las especies.
+* **Educación ambiental y sostenibilidad:** reflexión sobre el cuidado del ambiente, la restauración ecológica y la importancia de las acciones individuales y colectivas.
+* **Exploración sensorial de la naturaleza:** actividades para descubrir los sonidos, colores, formas y aromas del jardín mediante propuestas lúdicas y participativas.
+
+### 👩🏻‍🏫 Metodología
+
+Las visitas combinan caminatas guiadas, observación científica, juegos educativos, trabajo en equipo y espacios de reflexión, promoviendo la curiosidad, el pensamiento crítico y el vínculo con la naturaleza.
+
+
+
 <!-- <a href="https://TU-LINK-PRIMARIA.com" target="_blank" class="program-button"> -->
 <!--   Programa Primaria -->
 <!-- </a> -->
@@ -109,9 +129,9 @@ Descarga los programas tentativos:
 
 ---
 
-## El Arboretum
+<!-- ## El Arboretum -->
 
-El recorrido educativo atraviesa distintos sectores del arboretum, permitiendo observar especies nativas, dinámicas ecológicas y ambientes representativos del paisaje local.
+<!-- El recorrido educativo atraviesa distintos sectores del arboretum, permitiendo observar especies nativas, dinámicas ecológicas y ambientes representativos del paisaje local. -->
 
 
 ## Información General
