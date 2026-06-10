@@ -786,10 +786,13 @@ li {
 
 /* Asegura que las imágenes ocupen bien su celda */
 
-.image-grid-2x3{
-    width:100%;
-    padding-left:1rem;
-    padding-right:1rem;
+.image-grid-2x3 {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  width: 100%;
+  margin: 0 auto 25px auto;
+  padding: 0 1rem;
 }
 
 .image-grid-2x3 p{
@@ -806,15 +809,22 @@ li {
 
 /* Opcional: hacerlas más uniformes */
 .image-grid-2x3 img {
-  aspect-ratio: 4 / 3;
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
 }
 
-@media(max-width:768px){
+@media (max-width: 768px){
+  .image-grid-2x3{
+    grid-template-columns: 1fr;
+    padding: 0 1rem;
+  }
 
-    .image-grid-2x3{
-        grid-template-columns:1fr;
-    }
-
+  .image-grid-2x3 img{
+    width: 100%;
+    height: auto;
+  }
 }
 
 
@@ -912,16 +922,25 @@ main li{
     font-size:1rem;
   }
 
-  .image-grid-2x3{
-    grid-template-columns:1fr;
-    padding-left:0;
-    padding-right:0;
-  }
-
-  .image-grid-2x3 img{
-    width:100%;
-    height:auto;
-  }
+ .image-grid-2x3 {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  width: 100%;
+  margin: 0 auto 25px auto;
+  padding: 0 1rem;
+}
 
 }
 
+@media (max-width: 768px){
+  .image-grid-2x3{
+    grid-template-columns: 1fr;
+    padding: 0 1rem;
+  }
+
+  .image-grid-2x3 img{
+    width: 100%;
+    height: auto;
+  }
+}
