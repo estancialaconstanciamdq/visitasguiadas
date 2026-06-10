@@ -770,6 +770,12 @@ li {
    font-family: 'Cormorant Garamond', serif;
 }
 
+
+
+
+
+
+
 .image-grid-2x3 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -779,33 +785,46 @@ li {
 }
 
 /* Asegura que las imágenes ocupen bien su celda */
-.image-grid-2x3 img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  border-radius: 8px;
-  display: block;
+
+.image-grid-2x3{
+    width:100%;
+    padding-left:1rem;
+    padding-right:1rem;
 }
+
+.image-grid-2x3 p{
+    margin:0;
+}
+
+.image-grid-2x3 img{
+    width:100%;
+    display:block;
+    height:auto;
+}
+
+
 
 /* Opcional: hacerlas más uniformes */
 .image-grid-2x3 img {
   aspect-ratio: 4 / 3;
 }
 
-@media (max-width: 768px) {
-  .image-grid-2x3 {
-    grid-template-columns: repeat(2, 1fr);
-  }
+@media(max-width:768px){
+
+    .image-grid-2x3{
+        grid-template-columns:1fr;
+    }
+
 }
+
+
+
 
 body{
     font-size:1.4rem;
     line-height:1.8;
 }
 
-.lead-text{
-    font-size:1.8rem;
-}
 
 h2{
     font-size:2.4rem;
@@ -824,3 +843,85 @@ main li{
   text-align: justify;
   text-justify: inter-word;
 }
+
+
+.lead-text{
+    max-width:950px;
+    margin:auto;
+    padding-left:1rem;
+    padding-right:1rem;
+    font-size:1.3rem;
+}
+
+@media (max-width:768px){
+
+    .lead-text{
+        font-size:1rem;
+        padding-left:1rem;
+        padding-right:1rem;
+        border-left:none;
+    }
+
+}
+
+.hero-content{
+    width:100%;
+    max-width:950px;
+    padding-left:1rem;
+    padding-right:1rem;
+}
+
+@media(max-width:768px){
+
+    .hero-content{
+        width:100%;
+        padding-left:1.2rem;
+        padding-right:1.2rem;
+    }
+
+    .hero-content h3{
+        line-height:1.3;
+    }
+
+}
+
+
+
+@media (max-width:768px){
+
+  main.content{
+    padding-left:1rem !important;
+    padding-right:1rem !important;
+  }
+
+  .hero-content{
+    width:100%;
+    padding-left:1rem;
+    padding-right:1rem;
+  }
+
+  .lead-text{
+    font-size:1rem;
+    padding-left:1rem;
+    padding-right:1rem;
+    border-left:none;
+  }
+
+  main p,
+  main li{
+    font-size:1rem;
+  }
+
+  .image-grid-2x3{
+    grid-template-columns:1fr;
+    padding-left:0;
+    padding-right:0;
+  }
+
+  .image-grid-2x3 img{
+    width:100%;
+    height:auto;
+  }
+
+}
+
