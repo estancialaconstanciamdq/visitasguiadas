@@ -10,13 +10,13 @@ page-layout: full
 
 <img src="logo_la_constancia.svg" class="hero-logo">
 
-# Visitas Educativas
+# Visitas Botánicas
 
 ### Arboretum de Estancia La Constancia
 
-<div class="hero-subtitle">
-Educación Ambiental · Biodiversidad · Aprendizaje en Terreno
-</div>
+<!-- <div class="hero-subtitle"> -->
+<!-- Educación Ambiental · Biodiversidad · Aprendizaje en Terreno -->
+<!-- </div> -->
 
 </div>
 
@@ -24,142 +24,148 @@ Educación Ambiental · Biodiversidad · Aprendizaje en Terreno
 :::
 
 ::: {.lead-text}
+::: {.justificado}
+En el marco de la [XXI Reunión Argentina de Ornitología (RAO)](https://rao.avesargentinas.org.ar/), el Arboretum de Estancia La Constancia abre sus puertas a instituciones educativas, docentes y grupos interesados en descubrir la riqueza natural del lugar a través de la observación directa del paisaje.
 
-El Arboretum de Estancia La Constancia abre sus puertas a instituciones educativas, docentes y grupos escolares interesados en aprender directamente en contacto con la naturaleza.  
+La visita se realizará el **sábado 8 de agosto de 2026 a las 10:00 hs** e incluirá recorridos guiados que invitan a conocer la diversidad vegetal del arboretum y, al mismo tiempo, a identificar y disfrutar del avistaje de las numerosas especies de aves que encuentran refugio y alimento en este entorno.
 
-A través de recorridos guiados, actividades prácticas y observación ecológica, promovemos una comprensión viva de la biodiversidad y los ecosistemas locales.
 
+::: 
 :::
+
+
+
+## El Arboretum 
+::: {.justificado}
+La [Constancia de Biocca](https://estancialaconstanciamdq.com/) es un arboretum de 33 hectáreas ubicado en Mar del Plata, con más de 300 especies de árboles y 40 especies de aves registradas. Su diversidad vegetal crea un hábitat ideal para el avistaje de aves y la educación ambiental, ofreciendo una experiencia única de contacto con la naturaleza.
+
+Este arboretum fue fundado por Héctor Biocca, quien, junto a sus hijos, diseñó y plantó cada una de las especies que hoy forman parte de esta colección viva. Su dedicación exclusiva y el cuidado permanente de cada ejemplar garantizaron el exitoso desarrollo y mantenimiento del arbolado. Hoy, cuarenta y cinco años después, La Constancia de Biocca exhibe parques de gran riqueza paisajística y biodiversidad, con la aspiración de constituirse en un legado para las futuras generaciones.
+:::
+<!-- ## Experiencias Botánicas -->
+
+<!-- ::: {.panel-tabset} -->
+
+<!-- ### 🌳 Recorrido Botánico Guiado -->
+
+<!-- - Reconocimiento de árboles, arbustos, herbáceas y trepadoras. -->
+<!-- - Observación de especies nativas y exóticas y sus principales características. -->
+<!-- - Introducción a la identificación botánica mediante hojas, flores, frutos y cortezas. -->
+<!-- - Interpretación de los ambientes y ecosistemas presentes en el arboretum. -->
+<!-- - Descubrimiento de las relaciones entre plantas, animales y paisaje. -->
+
+
+<!-- ### 🌿 Beneficios -->
+<!-- - Aprendizaje práctico de contenidos de botánica, ecología y ciencias naturales. -->
+<!-- - Desarrollo de habilidades de observación y pensamiento científico. -->
+<!-- - Fomento de la curiosidad y del vínculo con la naturaleza. -->
+<!-- - Actividades adaptadas a los objetivos pedagógicos de cada institución. -->
+
+<!-- ### 🥾 Exploración en Senderos -->
+
+<!-- - Acompañamiento de profesionales especializados. -->
+<!-- - Actividades participativas de reconocimiento de especies y diversidad vegetal. -->
+<!-- - Observación de procesos naturales como la floración, fructificación y dispersión de semillas. -->
+<!-- - Espacios para la reflexión sobre conservación, restauración ecológica y sostenibilidad. -->
+
+
+<!-- ::: -->
 
 ---
 
-## Experiencias Educativas
+## Galería
 
-::: {.panel-tabset}
+::: {.image-grid-2x3}
 
-### 🌿 Recorrido Botánico Guiado
+![](visita1.png)
 
-- Los alumnos reconocen hierbas, arbustos y árboles, en un entorno único y seguro con programas diseñados por nivel y tema.
-- ¿Aves o pájaros? ¿Animales vertebrados o invertebrados? Preguntas que serán
-respondidas a través de la observación y el juego, despertando el interés que continuará en el aula.
-- Interpretación de ecosistemas locales  
-- Observación de interacciones ecológicas  
+![](visita2.jpg)
 
-<!-- ### 📊 Ciencia y Naturaleza -->
+![](visita3.jpg)
 
-<!-- - Registro de biodiversidad en campo   -->
-<!-- - Introducción a la ciencia ciudadana   -->
-<!-- - Uso básico de herramientas de observación   -->
-<!-- - Actividades de clasificación de especies  -->
-<!-- - Conexión con la naturaleza: Fomentamos el respeto y el cuidado por el Ambiente a través de la reflexión y el juego. -->
+![](visita4.png)
 
-### 🌿 Beneficios
-- Los estudiantes adquirirán conocimientos de biología, ecología y geografía de manera dinámica y entretenida.
-- Fomentamos el trabajo entre compañeros, despertamos la curiosidad y el pensamiento crítico en un entorno natural.
-- Exploración y aprendizaje al aire libre con programas co-creados con la institución.
-- Caminatas guiadas, observación de flora, actividades interactivas, todo creado para despertar la curiosidad y el amor por el ambiente.
+![](visita5.jpg)
 
-### 🥾 Aprendizaje en Senderos
-
-- Actividades adaptadas por nivel educativo
-- Recorridos guiados: Acompañados por profesionales especializados que adaptan las explicaciones a la edad y nivel de los estudiantes.
-- Exploración de ecosistemas locales: Reconocimiento de especies arbóreas y análisis de flora y fauna nativas y exóticas.
-- Actividades prácticas y divertidas: Identificación de especies de plantas y árboles, la reproducción de las especies, la observación de aves (residentes y migratorias), la recolección de muestras para laboratorio, trabajo en equipo, ¡y mucho más!
-
+![](visita6.jpg)
 
 :::
 
----
-
-## Visitas Escolares
-
-<!-- ::: {.columns} -->
-
-<!-- ::: {.column width="100%"} -->
-
-<!-- ::: {.program-card} -->
-
-**Duración:** 3/4 horas  
-**Nivel:** Primaria / Secundaria  
-**Cantidad mínima de alumnos:** 30 alumnos
-
-Diseñadas para complementar contenidos curriculares en ciencias naturales, biología y educación ambiental.
 
 
 ## Contenidos de las Visitas
 
-Cada recorrido se adapta al nivel educativo y a los objetivos pedagógicos de la institución, integrando actividades de observación, exploración y aprendizaje en contacto directo con la naturaleza.
 
-### 🌳 Algunos de los temas que abordamos
 
-* **Historia y transformación del paisaje:** cómo un antiguo potrero se convirtió en un arboretum de 33 hectáreas con más de 30.000 plantas.
-* **Biodiversidad y conservación:** reconocimiento de especies nativas y exóticas, y el rol de los jardines botánicos y arboretos en la protección de la flora.
-* **Ecología y funcionamiento de los ecosistemas:** relaciones entre plantas, animales y ambiente.
-* **Botánica en acción:** observación de hojas, flores, semillas, cortezas y otras estructuras vegetales para comprender cómo los científicos identifican y estudian las especies.
-* **Educación ambiental y sostenibilidad:** reflexión sobre el cuidado del ambiente, la restauración ecológica y la importancia de las acciones individuales y colectivas.
-* **Exploración sensorial de la naturaleza:** actividades para descubrir los sonidos, colores, formas y aromas del jardín mediante propuestas lúdicas y participativas.
+<!-- ### 🌳 Algunos de los temas que abordamos -->
 
-### 👩🏻‍🏫 Metodología
-
-Las visitas combinan caminatas guiadas, observación científica, juegos educativos, trabajo en equipo y espacios de reflexión, promoviendo la curiosidad, el pensamiento crítico y el vínculo con la naturaleza.
+<!-- - **Historia del Arboretum:** transformación de un antiguo potrero en un espacio de conservación y educación ambiental. -->
+<!-- - **Diversidad vegetal:** reconocimiento de especies nativas y exóticas y su importancia ecológica. -->
+<!-- - **Botánica aplicada:** cómo identificar plantas a partir de sus estructuras y características morfológicas. -->
+<!-- - **Ecología de los ecosistemas:** relaciones entre flora, fauna, suelo y clima. -->
+<!-- - **Conservación y restauración:** el papel de los arboretos en la protección de la biodiversidad y la recuperación de ambientes degradados. -->
+<!-- - **Exploración sensorial:** propuestas para descubrir los colores, aromas, texturas y formas del jardín. -->
 
 
 
-<!-- <a href="https://TU-LINK-PRIMARIA.com" target="_blank" class="program-button"> -->
-<!--   Programa Primaria -->
-<!-- </a> -->
-
-<!-- <a href="https://TU-LINK-SECUNDARIA.com" target="_blank" class="program-button"> -->
-<!--   Programa Secundaria -->
-<!-- </a> -->
-Descarga los programas tentativos:
-
-<div class="button-group">
-
-  <a href="https://drive.google.com/file/d/19wJLzPF0y2cGcbcleYGGqqQfquEImo-8/view?usp=sharing">
-    Programa Primaria
-  </a>
-
-  <a href="https://drive.google.com/file/d/15N2feTXPWUFBhSsXKI50gUgWbZRjfpLM/view?usp=sharing" target="_blank" class="program-button">
-    Programa Secundaria
-  </a>
-
-</div>
 
 
----
+- Caminata guiada de 1 hora y media junto a biólogos/as y guías naturalistas especializados.
 
-<!-- ## El Arboretum -->
 
-<!-- El recorrido educativo atraviesa distintos sectores del arboretum, permitiendo observar especies nativas, dinámicas ecológicas y ambientes representativos del paisaje local. -->
+- Recorrido por distintos ambientes del Jardín, con especial énfasis en los hábitats de aves y su relación con la vegetación del jardín.
+
+
+- Conocerán la transformación de un antiguo potrero en un jardín de 33 hectáreas con más de 30.000 plantas, hoy convertido en un espacio clave para la vida silvestre.
+
+
+- Luego de la caminata, habrá 1 hora adicional para descanso, observación libre o intercambio entre participantes.
+
+
+- Encuentro con personas apasionadas por las aves, la conservación y la naturaleza.
+
 
 
 ## Información General
 
-### 🌿 Visitas Educativas
+### 🌳 Día y Horario    
 
-- Las visitas educativas se realizan únicamente con **reserva previa**, con el fin de garantizar una adecuada organización logística y la mejor experiencia para cada grupo.
-- Al momento de la coordinación se establecerán **dos fechas**: una principal y una alternativa por lluvia.
-- La reserva se efectúa con el **pago de la seña correspondiente**.
-- Nuestro equipo se pondrá en contacto para coordinar objetivos y organización.
-
-### 🌳 Cómo solicitar una visita
-
-- Enviar solicitud de reserva  
-- Coordinación de objetivos pedagógicos  
-- Confirmación de fecha y grupo  
-- Desarrollo de la visita guiada
+Sábado 8 de agosto de 2026 a las 10 am.
 
 
-<!-- <br> -->
+### 🌳 Cómo inscribirse en la visita
+
+- Expresa tu interés clickeando el botón "Quiero Sumarme a la Visita".   
+- Te contactamos para confirmar la visita y realizar el pago.
 
 ::: {.cta-container}
-<a href="https://forms.gle/a7vfNhF14bQMZkiw5" target="_blank" class="cta-button">
-Solicitar Visita Educativa
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfPfe_--UakdPwsknpYmNka_ithUyZeqDQtb-CHc9zEp807jQ/viewform" target="_blank" class="cta-button">
+Quiero Sumarme a la Visita 
 </a>
 :::
 
----
+
+### 🌳 Precios
+
+- Hasta el 30 de Junio 2026 (inclusive) **60% de descuento**: Precio Final: $10,000 
+
+- Hasta el 19 de Julio 2026 (inclusive) **40% de descuento**: Precio Final: $15,000
+
+- Hasta el 2 de Agosto 2026 (inclusive) **20% de descuento**: Precio Final: $20,000
+
+- Desde el 3 de Agosto 2026: Precio Final: $25,000
+
+
+### 🌳 Cómo llegar al Arboretum
+
+El Arboretum de Estancia La Constancia se encuentra en el sur de la ciudad de Mar del Plata, en un entorno rural de fácil acceso desde los principales puntos de la ciudad.
+
+🚗 En auto
+
+Desde el centro de Mar del Plata, se accede por Camino 515. El recorrido dura aproximadamente 20–30 minutos, dependiendo del tránsito. Se recomienda utilizar aplicaciones de navegación como Google Maps ingresando “[La Constancia de Biocca](https://maps.app.goo.gl/jQaTGHeaecL4icSg9)” como destino.
+
+🚌 Transporte público
+
+Si bien no exisiten líneas de colectivos que conecten el centro de Mar del Plata con el arboretum, servicios de traslado, como por ejemplo Uber,  llegan sin inconvenientes.
 
 ## Contacto y Ubicación
 
