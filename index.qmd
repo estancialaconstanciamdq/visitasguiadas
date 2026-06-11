@@ -27,7 +27,7 @@ page-layout: full
 ::: {.justificado}
 En el marco de la [XXI Reunión Argentina de Ornitología (RAO)](https://rao.avesargentinas.org.ar/), el Arboretum de Estancia La Constancia abre sus puertas a instituciones educativas, docentes y grupos interesados en descubrir la riqueza natural del lugar a través de la observación directa del paisaje.
 
-La visita se realizará el **viernes 7 de agosto de 2026 a las 10:00 hs** e incluirá recorridos guiados que invitan a conocer la diversidad vegetal del arboretum y, al mismo tiempo, a identificar y disfrutar del avistaje de las numerosas especies de aves que encuentran refugio y alimento en este entorno.
+Las visitas se realizarán el **viernes 7 y sábado 8 de agosto de 2026 a las 10:00 hs** e incluirán recorridos guiados que invitan a conocer la diversidad vegetal del arboretum y, al mismo tiempo, a identificar y disfrutar del avistaje de las numerosas especies de aves que encuentran refugio y alimento en este entorno.
 
 
 ::: 
@@ -129,13 +129,16 @@ Este arboretum fue fundado por Héctor Biocca, quien, junto a sus hijos, diseñ�
 
 ### 🌳 Día y Horario    
 
-Viernes 7 de agosto de 2026 a las 10 am.
+- Viernes 7 de agosto de 2026 a las 10 am.
 
+- Sábado 8 de agosto de 2026 a las 10 am.
 
 ### 🌳 Cómo inscribirse en la visita
 
-- Expresa tu interés clickeando el botón "Quiero Sumarme a la Visita".   
-- Te contactamos para confirmar la visita y realizar el pago.
+
+- **Expresa tu interés:** Haz clic en el botón "Quiero Sumarme a la Visita", donde podrás acceder a los medios de pago.
+
+- **Confirmación:** Una vez realizado el pago, nos pondremos en contacto contigo para confirmar tu lugar.
 
 ::: {.cta-container}
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfPfe_--UakdPwsknpYmNka_ithUyZeqDQtb-CHc9zEp807jQ/viewform" target="_blank" class="cta-button">
@@ -144,7 +147,7 @@ Quiero Sumarme a la Visita
 :::
 
 
-### 🌳 Precios
+### 🌳 Precios por Persona
 
 - Hasta el 30 de Junio 2026 (inclusive) **60% de descuento**: Precio Final: $10,000 
 
@@ -154,6 +157,8 @@ Quiero Sumarme a la Visita
 
 - Desde el 3 de Agosto 2026: Precio Final: $25,000
 
+
+Niños abonan ingreso a partir de los 12 años. 
 
 ### 🌳 Cómo llegar al Arboretum
 
